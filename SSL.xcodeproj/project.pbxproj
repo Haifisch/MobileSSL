@@ -12,6 +12,10 @@
 		B9037E5B19429E55004CC7C9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B9037E5919429E55004CC7C9 /* Main.storyboard */; };
 		B9037E5D19429E55004CC7C9 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B9037E5C19429E55004CC7C9 /* Images.xcassets */; };
 		B9037E6919429E55004CC7C9 /* SSLTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9037E6819429E55004CC7C9 /* SSLTests.swift */; };
+		B9037E7619429EF4004CC7C9 /* reload.png in Resources */ = {isa = PBXBuildFile; fileRef = B9037E7219429EF4004CC7C9 /* reload.png */; };
+		B9037E7719429EF4004CC7C9 /* reload@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9037E7319429EF4004CC7C9 /* reload@2x.png */; };
+		B9037E7819429EF4004CC7C9 /* share.png in Resources */ = {isa = PBXBuildFile; fileRef = B9037E7419429EF4004CC7C9 /* share.png */; };
+		B9037E7919429EF4004CC7C9 /* share@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B9037E7519429EF4004CC7C9 /* share@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +38,10 @@
 		B9037E6219429E55004CC7C9 /* SSLTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SSLTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9037E6719429E55004CC7C9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B9037E6819429E55004CC7C9 /* SSLTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SSLTests.swift; sourceTree = "<group>"; };
+		B9037E7219429EF4004CC7C9 /* reload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = reload.png; sourceTree = "<group>"; };
+		B9037E7319429EF4004CC7C9 /* reload@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reload@2x.png"; sourceTree = "<group>"; };
+		B9037E7419429EF4004CC7C9 /* share.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = share.png; sourceTree = "<group>"; };
+		B9037E7519429EF4004CC7C9 /* share@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "share@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +86,10 @@
 				B9037E5519429E55004CC7C9 /* AppDelegate.swift */,
 				B9037E5719429E55004CC7C9 /* ViewController.swift */,
 				B9037E5919429E55004CC7C9 /* Main.storyboard */,
+				B9037E7219429EF4004CC7C9 /* reload.png */,
+				B9037E7319429EF4004CC7C9 /* reload@2x.png */,
+				B9037E7419429EF4004CC7C9 /* share.png */,
+				B9037E7519429EF4004CC7C9 /* share@2x.png */,
 				B9037E5C19429E55004CC7C9 /* Images.xcassets */,
 				B9037E5319429E55004CC7C9 /* Supporting Files */,
 			);
@@ -190,6 +202,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B9037E5B19429E55004CC7C9 /* Main.storyboard in Resources */,
+				B9037E7719429EF4004CC7C9 /* reload@2x.png in Resources */,
+				B9037E7919429EF4004CC7C9 /* share@2x.png in Resources */,
+				B9037E7819429EF4004CC7C9 /* share.png in Resources */,
+				B9037E7619429EF4004CC7C9 /* reload.png in Resources */,
 				B9037E5D19429E55004CC7C9 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
